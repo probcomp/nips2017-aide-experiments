@@ -12,7 +12,7 @@ const linestyles = Dict([1 => "-", 100 => "--"])
 const colors = Dict([PRIOR_PROPOSAL_NAME => "darkcyan", OPTIMAL_PROPOSAL_NAME => "red"])
 
 # short names for the legend for the different types of proposals
-proposal_short_names = Dict([PRIOR_PROPOSAL_NAME => "prior proposal", OPTIMAL_PROPOSAL_NAME => "optimal_proposal"])
+proposal_short_names = Dict([PRIOR_PROPOSAL_NAME => "prior proposal", OPTIMAL_PROPOSAL_NAME => "optimal proposal"])
 
 # where to read data from
 const DATA_DIR = "data"
