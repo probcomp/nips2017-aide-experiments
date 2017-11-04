@@ -11,7 +11,7 @@ const PLOT_FIGURE_SIZE = (3, 2.5)
 const COLOR_LIKELIHOOD_WEIGHTING_ONE_PARTICLE = "white"
 const COLOR_GOLD_STANDARD = "gold"
 const ANNOTATION_FONTSIZE = 11
-const TITLE_FONTSIZE=16
+const TITLE_FONTSIZE=13
 
 
 function annotate_num_clusters_plot(data::DataFrame)
